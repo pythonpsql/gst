@@ -1,0 +1,13 @@
+*.pgsql
+*.sql
+*.backup
+*.log
+*.txt
+*.csv
+*.xls
+*.ttf
+__pycache__/*
+some_pic.png
+invoices/*
+backups/*
+custom_data.py
