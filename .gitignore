@@ -6,6 +6,7 @@
 *.csv
 *.xls
 *.ttf
+*.pdf
 *.otf
 __pycache__/*
 some_pic.png
