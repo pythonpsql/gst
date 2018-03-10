@@ -6,6 +6,7 @@
 *.csv
 *.xls
 *.ttf
+*.pdf
 *.otf
 *.pdf
 __pycache__/*
